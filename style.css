@@ -27,7 +27,7 @@
   margin: 4.5rem 7rem;
 }
 
-#product-preview #text {
+#product-preview [data-feature="text"] {
   position: relative;
   width: 50%; /*100%*/
   height: auto;
